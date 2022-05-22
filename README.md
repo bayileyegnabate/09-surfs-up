@@ -1,13 +1,14 @@
-# Module 9
-## Overview  of the analysis:
+# Climate Analysis
+## Overview of the analysis:
 * In this analysis we use Jupyter notebook together with Pandas and SQLite to analyze temperature data understand the **temperature trends** in Oahu for the months of **June** and **December** in order to determine if a surf and ice cream shop would be viable business.
 ## Purpose:
 * The main purpose of this analysis is to analyze the temperature data from a span of 7 years, from 2010 to 2016 for June and December. 
 ## Results:
-* the temperature analyses for June and December show very similar results for - with  
+* the temperature analyses for June and December show very similar results for - with slightly lower values for December.
+* 
 ## Summary:
-* The temperature summary stats for the months of June and December are as follows:
-#### Temperature Summary Stats
+* The temperature stats for the months of June and December are summarized bellow:
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
