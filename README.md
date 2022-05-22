@@ -11,10 +11,6 @@
 #### Temperature Summary Stats
 <table border="1" class="dataframe">
   <thead>
-    <tr colspan="2" style="text-align: center; font-size: 14pt;">
-        <th colspan="2"></th>
-        <th >Temperature Stats</th>
-    </tr>
     <tr style="text-align: right;">
       <th></th>
       <th>June</th>
