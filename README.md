@@ -11,14 +11,14 @@
 #### Temperature Summary Stats
 <table border="1" class="dataframe">
   <thead>
-    <tr>
+    <tr colspan="2" style="text-align: center; font-size: 14pt;">
         <th colspan="2"></th>
-        <th colspan="2" style="text-align: center; font-size: 14pt;">Temperature Stats</th>
+        <th >Temperature Stats</th>
     </tr>
     <tr style="text-align: right;">
       <th></th>
-      <th style="text-align: center;">June</th>
-      <th style="text-align: center;">December</th>
+      <th>June</th>
+      <th>December</th>
     </tr>
   </thead>
   <tbody>
