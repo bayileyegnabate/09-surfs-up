@@ -1,13 +1,12 @@
 # Module 9
 ## Overview  of the analysis:
--This analysis is to understand/see the **temperature trends** in Oahu for the months of <span style="color: green">June and December</span> in order to determine if a surf and ice cream shop business would be sustainable year-round.
-
+* In this analysis we use Jupyter notebook together with Pandas and SQLite to analyze temperature data understand the **temperature trends** in Oahu for the months of **June** and **December** in order to determine if a surf and ice cream shop would be viable business.
 ## Purpose:
-  The main purpose of this analysis is to understand/see the **temperature trends** in Oahu for the months of <span style="color: green">June and December</span> in order to determine if a surf and ice cream shop business would be sustainable year-round.
+* The main purpose of this analysis is to analyze the temperature data from a span of 7 years, from 2010 to 2016 for June and December. 
 ## Results:
-* There is a bulleted list that addresses the three key differences in weather between June and December
+* the temperature analyses for June and December show very similar results for - with  
 ## Summary:
-- The temperature summary stats for the months of June and December are as follows:
+* The temperature summary stats for the months of June and December are as follows:
 #### Temperature Summary Stats
 <table border="1" class="dataframe">
   <thead>
@@ -65,3 +64,6 @@
     </tr>
   </tbody>
 </table>
+
+- As per this summary, apart from December having a lightly lower values for both the maximum and minimum temperatures, the temperature patterns remain the same for the months of June and December. Promising a sustainable business for the surf and ice cream shop.
+- A similar analysis on the precipitation would likely give a better picture on the overall weather trends. 
