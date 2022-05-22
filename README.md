@@ -4,8 +4,9 @@
 ## Purpose:
 * The main purpose of this analysis is to analyze the temperature data from a span of 7 years, from 2010 to 2016 for June and December. 
 ## Results:
-* the temperature analyses for June and December show very similar results for - with slightly lower values for December.
-* 
+* the temperature analyses for June and December show very similar results
+* lower over all temps in December, and 
+* a lower precipitation in June. 
 ## Summary:
 * The temperature stats for the months of June and December are summarized bellow:
 
@@ -66,5 +67,5 @@
   </tbody>
 </table>
 
-- As per this summary, apart from December having a lightly lower values for both the maximum and minimum temperatures, the temperature patterns remain the same for the months of June and December. Promising a sustainable business for the surf and ice cream shop.
-- A similar analysis on the precipitation would likely give a better picture on the overall weather trends. 
+- As per this summary table, apart from December having a lightly lower values for both the maximum and minimum temperatures, the temperature patterns remain the same for the months of June and December. Promising a sustainable business for the surf and ice cream shop.
+- A similar analysis on the **precipitation** would likely give a better picture on the overall weather trends. 
