@@ -8,90 +8,59 @@
 * There is a bulleted list that addresses the three key differences in weather between June and December
 ## Summary:
 - The temperature summary stats for the months of June and December are as follows:
-#### Summary Stats (June)
+#### Temperature Summary Stats
 <table border="1" class="dataframe">
   <thead>
+    <tr>
+        <th colspan="2"></th>
+        <th colspan="2" style="text-align: center; font-size: 14pt;">Temperature Stats</th>
+    </tr>
     <tr style="text-align: right;">
       <th></th>
-      <th>June Temps</th>
+      <th style="text-align: center;">June</th>
+      <th style="text-align: center;">December</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>count</th>
-      <td>1700.000000</td>
+      <td>1700.00</td>
+      <td>1517.00</td>
     </tr>
     <tr>
       <th>mean</th>
-      <td>74.944118</td>
+      <td>74.94</td>
+      <td>71.04</td>
     </tr>
     <tr>
       <th>std</th>
-      <td>3.257417</td>
+      <td>3.26</td>
+      <td>3.75</td>
     </tr>
     <tr>
       <th>min</th>
-      <td>64.000000</td>
+      <td>64.00</td>
+      <td>56.00</td>
     </tr>
     <tr>
       <th>25%</th>
-      <td>73.000000</td>
+      <td>73.00</td>
+      <td>69.00</td>
     </tr>
     <tr>
       <th>50%</th>
-      <td>75.000000</td>
+      <td>75.00</td>
+      <td>71.00</td>
     </tr>
     <tr>
       <th>75%</th>
-      <td>77.000000</td>
+      <td>77.00</td>
+      <td>74.00</td>
     </tr>
     <tr>
       <th>max</th>
-      <td>85.000000</td>
-    </tr>
-  </tbody>
-</table>
-
-#### Summary Stats (December)
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>December Temps</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>count</th>
-      <td>1517.000000</td>
-    </tr>
-    <tr>
-      <th>mean</th>
-      <td>71.041529</td>
-    </tr>
-    <tr>
-      <th>std</th>
-      <td>3.745920</td>
-    </tr>
-    <tr>
-      <th>min</th>
-      <td>56.000000</td>
-    </tr>
-    <tr>
-      <th>25%</th>
-      <td>69.000000</td>
-    </tr>
-    <tr>
-      <th>50%</th>
-      <td>71.000000</td>
-    </tr>
-    <tr>
-      <th>75%</th>
-      <td>74.000000</td>
-    </tr>
-    <tr>
-      <th>max</th>
-      <td>83.000000</td>
+      <td>85.00</td>
+      <td>83.00</td>
     </tr>
   </tbody>
 </table>
